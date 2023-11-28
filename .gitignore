@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodingPractice/obj
+/.vs/CodingPractice
+/CodingPractice/bin/Debug/net7.0
+/CodingPracticeTests/bin/Debug/net7.0
+/CodingPracticeTests/obj
