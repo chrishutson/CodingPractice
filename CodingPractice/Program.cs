@@ -1,5 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using CodingPractice;
+
 Console.WriteLine("Hello, World!");
+
+LinqPractice practice = new LinqPractice();
+practice.LinqSort();
 
 //TODO:
 //Brush up on the following:
