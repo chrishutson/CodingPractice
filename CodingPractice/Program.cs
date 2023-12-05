@@ -4,7 +4,20 @@ using CodingPractice;
 Console.WriteLine("Hello, World!");
 
 LinqPractice practice = new LinqPractice();
-practice.LinqSort();
+var list = practice.LinqSort();
+Console.WriteLine("\nLinq Sort");
+LinqPractice.PrintList(list);
+
+
+var list2 = practice.BasicComparatorSort();
+Console.WriteLine("\nBasic Comparator Sort");
+LinqPractice.PrintList(list2);
+
+var list3 = practice.SortByTwoElements();
+Console.WriteLine("\nSort By Two Elements");
+LinqPractice.PrintList(list3);
+
+
 
 //TODO:
 //Brush up on the following:
