@@ -7,3 +7,6 @@
 /CodingPractice/bin/Debug/net7.0
 /CodingPracticeTests/bin/Debug/net7.0
 /CodingPracticeTests/obj
+/package-lock.json
+/.vs/ProjectEvaluation/codingpractice.metadata.v7.bin
+/.vs/ProjectEvaluation/codingpractice.projects.v7.bin
