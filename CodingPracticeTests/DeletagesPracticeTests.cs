@@ -13,6 +13,7 @@ namespace CodingPracticeTests
         delegate double FindArea(double x);        
 
         //TODO: Put all the dp instantiation into a constructor
+        //Test checkin for new computer
 
         [TestMethod]
         public void TestDelegateSquare()
